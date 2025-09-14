@@ -9,6 +9,9 @@ public class Test {
 		// probando probando
 		System.out.println("Modificación en Eclipse, probando un nuevo commit 3");
 		
+		// probando otro commit desde otra versión de Eclipse -->
+		System.out.println("Modificación en Eclipse, probando un nuevo commit 4");
+		
 		
 	}
 
